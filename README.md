@@ -1,6 +1,7 @@
 # Binar - Testing ESLint Challenge CH 07
 
 Menerapkan ESLint pada kode yang ditulis, Melakukan unit testing pada kode yang ditulis, Melakukan deployment
+`https://24001086-km6-fal-eslint-ch7-production.up.railway.app/`
 
 # Setup & Running Server
 
@@ -13,6 +14,6 @@ Menerapkan ESLint pada kode yang ditulis, Melakukan unit testing pada kode yang 
 
 ## Server Routing
 
-| Page                  | Route            | Default Route                         |
-| --------------------- | ---------------- | ------------------------------------- |
-| Documentation Swagger | `/documentation` | http://localhost:{PORT}/documentation |
+| Page                  | Route            | Railway Route                                                               |
+| --------------------- | ---------------- | --------------------------------------------------------------------------- |
+| Documentation Swagger | `/documentation` | https://24001086-km6-fal-eslint-ch7-production.up.railway.app/documentation |
